@@ -29,7 +29,7 @@ Expected Graduation: **December 2026**
 
 - 🔗 **LinkedIn:** [https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)  
 - 📄 **Resume (PDF):** [Download Resume](/files/Resume.pdf)  
-- 💻 **GitHub:** https://github.com/YOUR-GITHUB-USERNAME
+- 💻 **GitHub:** https://github.com/quannguyen0527
 
 ---
 
